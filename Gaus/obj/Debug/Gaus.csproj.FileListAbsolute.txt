@@ -1,0 +1,11 @@
+C:\Users\vanya\source\C#\Gaus\bin\Debug\Gaus.exe.config
+C:\Users\vanya\source\C#\Gaus\bin\Debug\Gaus.exe
+C:\Users\vanya\source\C#\Gaus\bin\Debug\Gaus.pdb
+C:\Users\vanya\source\C#\Gaus\obj\Debug\Gaus.csprojAssemblyReference.cache
+C:\Users\vanya\source\C#\Gaus\obj\Debug\Gaus.Form1.resources
+C:\Users\vanya\source\C#\Gaus\obj\Debug\Gaus.Properties.Resources.resources
+C:\Users\vanya\source\C#\Gaus\obj\Debug\Gaus.csproj.GenerateResource.cache
+C:\Users\vanya\source\C#\Gaus\obj\Debug\Gaus.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\C#\Gaus\obj\Debug\Gaus.exe
+C:\Users\vanya\source\C#\Gaus\obj\Debug\Gaus.pdb
+C:\Users\vanya\source\C#\Gaus\obj\Debug\Gaus.Form2.resources
